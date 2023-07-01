@@ -25,3 +25,5 @@ Uses slash commands, self-explanatory.
 ```/manage-channels-list``` - Shows list of whitelisted channels
 
 ```/manage-users-list``` - Shows list of whitelisted users
+
+
